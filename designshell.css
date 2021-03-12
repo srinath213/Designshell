@@ -1,0 +1,28 @@
+div.profile img {
+    display: block;
+    border-radius:70%;
+    margin-left: 700px;
+    margin-right: auto;
+    text-align:center;
+    z-index:2;
+    margin-top: 120px;
+    width:10%;
+  }
+div.details h2{
+    color:white;
+    margin-left: 650px;
+    margin-top: 100px;
+    
+
+}
+div.details h4{
+    color:white;
+    margin-left: 600px;
+
+}
+div.contact-details img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+  }
